@@ -14,3 +14,4 @@ Examples are separated by current available models.
 
 This is still a work in progress. Contributions are welcomed!
 
+## this version is working  on linux   but you still need to load processing example first for some reason osc on runway dont start 
